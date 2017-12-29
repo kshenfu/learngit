@@ -2,4 +2,4 @@ Git is a version control sys.
 why..why...why
 add by tangyahui.
 
-weishenmene??
+create a new branch is quick AND simple.
