@@ -51,6 +51,9 @@ document.getElementById("myH1").innerHTML="Welcom to my Homepage";
 string &operator+(const string& A,const string& B) //CPP
 ```
 
-
+#### 换行
+直接回车不能换行,  
+可以在上一行文本后面补两个空格,    
+这样下一行的文本就换行了。
 
 
